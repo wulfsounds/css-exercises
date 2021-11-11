@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(230, 124, 142);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#element2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#element4 {
+    background-color: rgb(128, 201, 128);
+    font-size: 24px;
+    font-weight: bold;
+
+}
