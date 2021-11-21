@@ -10,13 +10,14 @@ img {
   width: 100px;
   height: 100px;
   display: flex;
+
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
   display: flex;
-  /* align-self: center; */
+  align-self: center;
   padding: 0 0 32px;
 }
 
@@ -27,7 +28,7 @@ img {
   align-content: center;
   width: 800px;
   height: 200px;
-
+  
 }
 
 .text {
